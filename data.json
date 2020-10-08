@@ -1,0 +1,39 @@
+{
+  "users" : [
+    {
+      "name": "Mario Speedwagon"
+    },
+    {
+      "name": "Peter Pants"
+    },
+    {
+      "name": "Anna Sthesia"
+    },
+    {
+      "name": "Paul Issy"
+    },
+    {
+      "name": "Otto Matic"
+    },
+    {
+      "name": "Angie O. Plasty"
+    }
+  ],
+  "classes" : [
+    {
+      "className": "Park Bench Dip",
+      "lat": "51.049999",
+      "lon": "-114.066666"
+    },
+    {
+      "className": "Core strength yoga sequence",
+      "lat": "49.246292",
+      "lon": "-123.116226"
+    },
+    {
+      "className": "Bleacher Bum Blast",
+      "lat": "36.174465",
+      "lon": "-86.767960"
+    }
+  ]
+}
